@@ -18,7 +18,7 @@ I am actively seeking a full-time role in **IT Support, Technical Support, or a 
 
 | Category | Tools & Skills |
 | :--- | :--- |
-| **Scripting** | Bash, Python (learning) |
+| **Scripting** | Bash, PowerShell & Python (learning) |
 | **Operations & Ticketing** | Jira, Jenkins, Confluence |
 | **Databases** | SQL |
 | **Systems** | Linux, Windows |
@@ -29,6 +29,7 @@ I am actively seeking a full-time role in **IT Support, Technical Support, or a 
 ### 💡 My Featured Project
 
 **[BASH-Toolkit (View Project)](https://github.com/0-xeno-0/BASH-Toolkit)**
+**[PowerShell-Toolkit (View Project)](https://github.com/0-xeno-0/PowerShell-Toolkit)**
 * A menu-driven utility with 13+ tools to automate common IT tasks, including a network diagnostic tool, log analyzer, system health dashboard, and a safe file cleaner.
 * Built with a focus on robust error handling, input validation, and a user-friendly interface.
 
