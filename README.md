@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek 👋
+# Hi there, 👋
 
 I'm an IT Support Specialist with a background in software testing and a passion for automation. I love untangling complex technical problems, helping users, and building tools that make everyone's job easier.
 
@@ -33,7 +33,3 @@ I am actively seeking a full-time role in **IT Support, Technical Support, or a 
 * Built with a focus on robust error handling, input validation, and a user-friendly interface.
 
 ---
-
-### 📫 How to Reach Me
-
-* **Email:** [abhishek.kishan1998@gmail.com](mailto:abhishek.kishan1998@gmail.com)
