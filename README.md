@@ -36,4 +36,4 @@ I am actively seeking a full-time role in **IT Support, Technical Support, or a 
 
 ### 📫 How to Reach Me
 
-* **Email:** [your-email@example.com](mailto:abhishek.kishan1998@gmail.com)
+* **Email:** [abhishek.kishan1998@gmail.com](mailto:abhishek.kishan1998@gmail.com)
