@@ -28,9 +28,9 @@ I am actively seeking a full-time role in **IT Support, Technical Support, or a 
 
 ### 💡 My Featured Project
 
-**[BASH-Toolkit (View Project)](https://github.com/0-xeno-0/BASH-Toolkit)**
-**[PowerShell-Toolkit (View Project)](https://github.com/0-xeno-0/PowerShell-Toolkit)**
-**[PYKit (View Project)](https://github.com/0-xeno-0/PYKit)**
+**[BASH-Toolkit (View Project)](https://github.com/0-xeno-0/BASH-Toolkit)** ||
+**[PowerShell-Toolkit (View Project)](https://github.com/0-xeno-0/PowerShell-Toolkit)** ||
+**[PYKit (View Project)](https://github.com/0-xeno-0/PYKit)** ||
 **[NetAppOP (View Project)](https://github.com/0-xeno-0/NetAppOP)**
 
 ---
