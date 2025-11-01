@@ -1,6 +1,10 @@
 # Hi there, 👋
 
-![NUX](https://octodex.github.com/images/NUX_Octodex.gif)
+<p align="center">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="NUX Octocat" width="400" />
+</p>
+
+
 
 I'm an IT Support Specialist with a background in software testing and a passion for automation. I love untangling complex technical problems, helping users, and building tools that make everyone's job easier.
 
