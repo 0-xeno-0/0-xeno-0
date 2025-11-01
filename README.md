@@ -1,5 +1,7 @@
 # Hi there, 👋
 
+![NUX](https://octodex.github.com/images/NUX_Octodex.gif)
+
 I'm an IT Support Specialist with a background in software testing and a passion for automation. I love untangling complex technical problems, helping users, and building tools that make everyone's job easier.
 
 I am actively seeking a full-time role in **IT Support, Technical Support, or a Helpdesk** position.
