@@ -1,7 +1,7 @@
 # Hi there, 👋
 
 <p align="center">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="NUX Octocat" width="400" />
+  <img src="(https://octodex.github.com/yogitocat/)" alt="Deployment" width="400" />
 </p>
 
 
