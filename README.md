@@ -1,7 +1,7 @@
 # Hi there, 👋
 
 <p align="center">
-  <img src="https://octodex.github.com/yogitocat.png" alt="yogitocat" width="400" />
+  <img src="https://octodex.github.com/images/yogitocat.png" alt="yogitocat" width="400" />
 </p>
 
 
